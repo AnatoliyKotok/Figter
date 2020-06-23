@@ -1,0 +1,5 @@
+﻿  Characteristic.cpp
+  Source.cpp
+C:\Users\Anatoliy\source\repos\Warrior\Warrior\Source.cpp(8,47): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Warrior.vcxproj -> C:\Users\Anatoliy\source\repos\Warrior\Debug\Warrior.exe
